@@ -1,0 +1,224 @@
+{
+  "minecraft": {
+    "version": "1.12.2",
+    "modLoaders": [
+      {
+        "id": "forge-14.23.3.2676",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "Block:topia",
+  "version": "0.3",
+  "author": "lolhorse",
+  "files": [
+    {
+      "projectID": 32274,
+      "fileID": 2498312,
+      "required": true
+    },
+    {
+      "projectID": 267602,
+      "fileID": 2519601,
+      "required": true
+    },
+    {
+      "projectID": 235279,
+      "fileID": 2535884,
+      "required": true
+    },
+    {
+      "projectID": 238222,
+      "fileID": 2554301,
+      "required": true
+    },
+    {
+      "projectID": 239197,
+      "fileID": 2554607,
+      "required": true
+    },
+    {
+      "projectID": 227083,
+      "fileID": 2518667,
+      "required": true
+    },
+    {
+      "projectID": 69118,
+      "fileID": 2432272,
+      "required": true
+    },
+    {
+      "projectID": 60089,
+      "fileID": 2462627,
+      "required": true
+    },
+    {
+      "projectID": 223094,
+      "fileID": 2482481,
+      "required": true
+    },
+    {
+      "projectID": 237167,
+      "fileID": 2551149,
+      "required": true
+    },
+    {
+      "projectID": 237102,
+      "fileID": 2551349,
+      "required": true
+    },
+    {
+      "projectID": 248787,
+      "fileID": 2496585,
+      "required": true
+    },
+    {
+      "projectID": 245211,
+      "fileID": 2549097,
+      "required": true
+    },
+    {
+      "projectID": 240630,
+      "fileID": 2497186,
+      "required": true
+    },
+    {
+      "projectID": 241895,
+      "fileID": 2554835,
+      "required": true
+    },
+    {
+      "projectID": 230976,
+      "fileID": 2463272,
+      "required": true
+    },
+    {
+      "projectID": 283644,
+      "fileID": 2552651,
+      "required": true
+    },
+    {
+      "projectID": 271740,
+      "fileID": 2554327,
+      "required": true
+    },
+    {
+      "projectID": 272515,
+      "fileID": 2504151,
+      "required": true
+    },
+    {
+      "projectID": 245755,
+      "fileID": 2556387,
+      "required": true
+    },
+    {
+      "projectID": 264353,
+      "fileID": 2508268,
+      "required": true
+    },
+    {
+      "projectID": 223628,
+      "fileID": 2558310,
+      "required": true
+    },
+    {
+      "projectID": 224535,
+      "fileID": 2443253,
+      "required": true
+    },
+    {
+      "projectID": 223150,
+      "fileID": 2516761,
+      "required": true
+    },
+    {
+      "projectID": 274259,
+      "fileID": 2544440,
+      "required": true
+    },
+    {
+      "projectID": 240783,
+      "fileID": 2475234,
+      "required": true
+    },
+    {
+      "projectID": 243205,
+      "fileID": 2484281,
+      "required": true
+    },
+    {
+      "projectID": 273771,
+      "fileID": 2494123,
+      "required": true
+    },
+    {
+      "projectID": 270466,
+      "fileID": 2548694,
+      "required": true
+    },
+    {
+      "projectID": 257572,
+      "fileID": 2525511,
+      "required": true
+    },
+    {
+      "projectID": 261251,
+      "fileID": 2496777,
+      "required": true
+    },
+    {
+      "projectID": 238551,
+      "fileID": 2524880,
+      "required": true
+    },
+    {
+      "projectID": 291218,
+      "fileID": 2555954,
+      "required": true
+    },
+    {
+      "projectID": 285492,
+      "fileID": 2555794,
+      "required": true
+    },
+    {
+      "projectID": 275156,
+      "fileID": 2468500,
+      "required": true
+    },
+    {
+      "projectID": 275086,
+      "fileID": 2467332,
+      "required": true
+    },
+    {
+      "projectID": 269377,
+      "fileID": 2456802,
+      "required": true
+    },
+    {
+      "projectID": 226670,
+      "fileID": 2436231,
+      "required": true
+    },
+    {
+      "projectID": 238747,
+      "fileID": 2486868,
+      "required": true
+    },
+    {
+      "projectID": 247136,
+      "fileID": 2496769,
+      "required": true
+    },
+    {
+      "projectID": 231951,
+      "fileID": 2554650,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
