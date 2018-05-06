@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Block:topia",
-  "version": "0.3",
+  "version": "0.4",
   "author": "lolhorse",
   "files": [
     {
@@ -61,12 +61,12 @@
     },
     {
       "projectID": 237167,
-      "fileID": 2551149,
+      "fileID": 2558552,
       "required": true
     },
     {
       "projectID": 237102,
-      "fileID": 2551349,
+      "fileID": 2558553,
       "required": true
     },
     {
@@ -106,12 +106,12 @@
     },
     {
       "projectID": 272515,
-      "fileID": 2504151,
+      "fileID": 2558614,
       "required": true
     },
     {
       "projectID": 245755,
-      "fileID": 2556387,
+      "fileID": 2559127,
       "required": true
     },
     {
@@ -121,7 +121,7 @@
     },
     {
       "projectID": 223628,
-      "fileID": 2558310,
+      "fileID": 2558648,
       "required": true
     },
     {
