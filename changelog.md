@@ -1,6 +1,7 @@
 # Version 0.4
 
 *Features*
+
 _none_
 
 *Fixes*
@@ -9,7 +10,9 @@ _none_
 *Mod updates*
 * Waystones
 * Thaumcraft
+* Thaumic JEI
 * Better Advancements
 * FTB Utilities
 * FTBLib
+* Immersive Engineering
 
